@@ -16,7 +16,8 @@
         "twirp/twirp": "^0.9.1|^0.14.0",
         "google/protobuf": "^3.23|^4.0",
         "guzzlehttp/guzzle": "^6.3|^7.0",
-        "guzzlehttp/psr7": "^1.6.1|^2.0"
+        "guzzlehttp/psr7": "^1.6.1|^2.0",
+        "psr/http-message": "^1.0|^2.0"
     },
     "autoload": {
         "psr-4": {
